@@ -1,6 +1,6 @@
 # springboot-桂林旅游景点导游平台 / springboot-Guilin_Tourism_Guide_Platform
 
-![SpringBoot](链接1)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7%2B-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 > 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
@@ -72,9 +72,6 @@ password: 123456
 ![后台页面](xx/suffix/2.png)
 ![后台页面](xx/suffix/3.png)
 ![后台页面](xx/suffix/4.png)
-![后台页面](xx/suffix/5.png)
-![后台页面](xx/suffix/6.png)
-![后台页面](xx/suffix/7.png)
 
 > 等等...
 
